@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/oinume/playground-javascript/issues"
   },
-  "homepage": "https://github.com/oinume/playground-javascript#readme"
+  "homepage": "https://github.com/oinume/playground-javascript#readme",
+  "keywords": []
 }
