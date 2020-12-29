@@ -1,0 +1,23 @@
+{
+  "name": "playground-javascript",
+  "version": "1.0.0",
+  "description": "JavaScript Playground",
+  "main": "index.js",
+  "dependencies": {
+    "promise": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oinume/playground-javascript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oinume/playground-javascript/issues"
+  },
+  "homepage": "https://github.com/oinume/playground-javascript#readme"
+}
