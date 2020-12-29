@@ -23,11 +23,13 @@
 
     // 実行例
     const URL = "https://httpbin.org/get";
-    fetchURL(URL).then(function onFulfilled(value){
-      console.log(value);
-    }).catch(function onRejected(error){
-      console.error(error);
-    });
+    fetchURL(URL)
+      .then(value => {
+        console.log(value);
+      })
+      .catch(error => {
+        console.error(error);
+      })
   </script>
   <body>
   https://httpbin.org/get
